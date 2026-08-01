@@ -19,7 +19,6 @@ This repository serves as the primary reference for system-level design document
 ## Current Focus
 
 The Architecture Review Board is evaluating several modernization initiatives intended to improve long-term maintainability while minimizing disruption to existing customers.
-
 ---
 
 ## Maintainers
