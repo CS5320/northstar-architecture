@@ -19,6 +19,16 @@ This repository serves as the primary reference for system-level design document
 ## Current Focus
 
 The Architecture Review Board is evaluating several modernization initiatives intended to improve long-term maintainability while minimizing disruption to existing customers.
+
+> ## Current Architecture Initiatives
+
+### Under Review
+
+- [ ] Service boundary evaluation
+- [ ] API versioning strategy
+- [ ] Platform modernization roadmap
+- [ ] Architecture documentation refresh
+
 ---
 
 ## Maintainers
@@ -33,12 +43,5 @@ Engineering Management
 > This repository is actively maintained. Documentation may not always reflect the latest implementation. When conflicts arise, Architecture Decision Records (ADRs) are considered the authoritative source.
 For architecture questions, see the Architecture repository.
 >
-> ## Current Architecture Initiatives
 
-### Under Review
-
-- [ ] Service boundary evaluation
-- [ ] API versioning strategy
-- [ ] Platform modernization roadmap
-- [ ] Architecture documentation refresh
 
