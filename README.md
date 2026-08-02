@@ -32,4 +32,13 @@ Engineering Management
 >
 > This repository is actively maintained. Documentation may not always reflect the latest implementation. When conflicts arise, Architecture Decision Records (ADRs) are considered the authoritative source.
 For architecture questions, see the Architecture repository.
+>
+> ## Current Architecture Initiatives
+
+### Under Review
+
+- [ ] Service boundary evaluation
+- [ ] API versioning strategy
+- [ ] Platform modernization roadmap
+- [ ] Architecture documentation refresh
 
