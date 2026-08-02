@@ -1,0 +1,27 @@
+# ADR-001: Standardize on REST APIs
+
+**Status:** Accepted
+
+## Context
+
+Atlas currently exposes several different API styles across services.
+This has increased client complexity and documentation effort.
+
+## Decision
+
+All newly developed services will expose REST APIs following the Northstar API standards.
+
+Existing services will migrate over time as part of normal development.
+
+## Consequences
+
+### Positive
+
+- Consistent developer experience
+- Simpler documentation
+- Easier testing
+
+### Negative
+
+- Existing services will require gradual migration.
+- Multiple API styles will temporarily coexist.
